@@ -1,0 +1,1 @@
+pike -M . test.pike
